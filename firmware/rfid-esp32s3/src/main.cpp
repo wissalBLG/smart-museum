@@ -4,8 +4,8 @@
 #include <WiFi.h>
 #include <HTTPClient.h>
 
-const char* ssid = "IdoomFibre_AT43kF92K";
-const char* password = "SfweRF6t";
+const char* ssid = "*********";
+const char* password = "*********";
 const char* serverUrl = "http://192.168.100.7:3000/api/rfid"; // استبدلي X برقم الـ IP الخاص بجهازك
 // أطراف التوصيل الخاصة بالـ ESP32-S3
 #define SS_PIN    5   
