@@ -15,7 +15,7 @@ const io = new Server(server, {
 
 // معلومات الاتصال بـ Supabase
 const SUPABASE_URL = 'https://lteoivkoexhgbtufmlcw.supabase.co';
-const SUPABASE_KEY = 'sb_publishable_V6l6nn0qkuRZ6Z3OUIq-jA_HbekvgET';
+const SUPABASE_KEY = 'sb_publishable_**************************';
 const supabase = createClient(SUPABASE_URL, SUPABASE_KEY);
 
 // دالة تطبيع المعرف للمطابقة التامة
